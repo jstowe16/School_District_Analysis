@@ -38,3 +38,6 @@ There is a statement summarizing four changes to the school district analysis af
 
 ![image](/Resources/New_Scores_by_Type.png)
 
+![image](/Resources/Prev_perSchool_Summary.png)
+
+![image](/Resources/New_perSchool_Summary.png)
